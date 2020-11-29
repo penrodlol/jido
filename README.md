@@ -1,1 +1,1 @@
-# jido
+# Jidō CLI
