@@ -1,0 +1,24 @@
+{
+  "name": "jido",
+  "version": "0.0.1",
+  "description": "Jidō CLI for building TestCafé page objects and tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/penrodlol/jido.git"
+  },
+  "keywords": [
+    "cli",
+    "testcafe",
+    "automation"
+  ],
+  "author": "penrodlol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/penrodlol/jido/issues"
+  },
+  "homepage": "https://github.com/penrodlol/jido#readme"
+}
