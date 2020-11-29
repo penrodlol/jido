@@ -26,6 +26,7 @@
     "baseUrl": "./src",
     "paths": {
       "@enums/*": ["enums/*"],
+      "@const/*": ["const/*"],
     }
   },
   "exclude": ["node_modules"],
