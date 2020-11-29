@@ -23,8 +23,10 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "skipLibCheck": true,
-    "baseUrl": ".",
-    "rootDir": "src"
+    "baseUrl": "./src",
+    "paths": {
+      "@enums/*": ["enums/*"],
+    }
   },
   "exclude": ["node_modules"],
   "include": ["./src/**/*.ts"]
